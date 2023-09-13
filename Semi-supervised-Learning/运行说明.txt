@@ -1,0 +1,8 @@
+1. 数据预处理
+python dataProcess.py
+
+2. 预训练
+python pre-training.py
+
+3. re-train
+python re-training.py
